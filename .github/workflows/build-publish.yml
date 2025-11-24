@@ -1,5 +1,5 @@
 #
-name: Demo Push
+name: Push Registration Service
 
 on:
   push:
