@@ -2,6 +2,7 @@
 name: Push Registration Service
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
